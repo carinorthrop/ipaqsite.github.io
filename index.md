@@ -2,7 +2,7 @@
 
 ### Meet the team!
 
-
+![image](https://user-images.githubusercontent.com/50886022/111222453-3da79d80-85b2-11eb-8ea4-5a14caae3621.png)
 
 ### Poster 
 
