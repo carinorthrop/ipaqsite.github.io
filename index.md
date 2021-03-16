@@ -7,7 +7,8 @@
 
 ### Poster 
 
-Poster can be found here 
+Poster can be found here
+<embed src="https://ipaqsite.github.io/Prelim Poster.pdf" width="600px" height="500px" />
 
 ### Video 
 
