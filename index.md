@@ -35,7 +35,7 @@ Will put abstract here after Carla approves it
 
 ### Poster 
 
-Our poster can be found <a href="https://carinorthrop.github.io/ipaqsite.github.io/Prelim Poster.pdf" target="_blank">here.</a>
+test Our poster can be found <a href="https://carinorthrop.github.io/ipaqsite.github.io/Prelim Poster.pdf" target="_blank">here.</a>
 <embed src="https://carinorthrop.github.io/ipaqsite.github.io/Prelim Poster.pdf" width="1300px" height="600px" />
 
 ### Video 
