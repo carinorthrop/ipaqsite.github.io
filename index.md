@@ -35,9 +35,10 @@ The objective of our project was to create a reliable solution to fly a drone au
 
 ### Poster 
 
-* do we like the embedded pdf or link?
+* do we like the pic or link or both? 
 Our poster can be found <a href="https://carinorthrop.github.io/ipaqsite.github.io/Prelim Poster.pdf" target="_blank">here.</a>
-<embed src="https://carinorthrop.github.io/ipaqsite.github.io/Prelim Poster.pdf" width="1300px" height="600px" />
+
+<img src="https://user-images.githubusercontent.com/50886022/111502873-a1e67080-871c-11eb-88fc-f7fbf7872304.png" width="800" height="600">
 
 ### Video 
 
