@@ -2,7 +2,7 @@
 
 ### Abstract 
 
-Will put abstract here after Carla approves it 
+The objective of our project was to create a reliable solution to fly a drone autonomously through obstacles via cameras and LIDAR.  
 
 ### Meet the team
 
