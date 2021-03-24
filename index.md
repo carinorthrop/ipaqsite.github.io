@@ -2,7 +2,7 @@
 
 ### Abstract 
 
-The objective of our project was to create a reliable solution to fly a drone autonomously through obstacles via cameras and LIDAR. This solution would enable first responders to utilize a drone to collect information of potential dangerous area, without the need for a human pilot.  
+The objective of our project was to create a reliable solution to fly a drone autonomously through obstacles via cameras and LIDAR. This solution would enable first responders to utilize a drone to collect information of potential dangerous areas, without the need for a human pilot.  
 
 ### Meet the team
 
