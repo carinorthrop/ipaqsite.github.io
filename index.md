@@ -10,14 +10,14 @@ The objective of our project was to create a reliable solution to fly a drone au
 
   <img src="https://user-images.githubusercontent.com/50886022/111222331-1355e000-85b2-11eb-88e2-59599b0a0ac7.png" width="100" height="100"> 
   
-  Hi, I'm Thomas 
+  Hi, I’m Thomas Barlow! I’m a 5th year computer engineering student. My main expertise is in VR/AR development and transfer learning, and I also frequently design, 3D print, and sell things in my free time.
   
  
   **Caroline Northrop - Computer Engineering**
   
   <img src="https://user-images.githubusercontent.com/50886022/111222377-24065600-85b2-11eb-9042-4d4e0c132b67.png" width="100" height="100">
   
-  Hi, I'm Caroline Northrop! Here at UC, I am involved in Theta Tau and being a TA for the freshman engineering course. Upon graduation, I am excited to start my career focusing on cryptographic applications.
+  Hi, I'm Caroline Northrop. Here at UC, I am involved in Theta Tau and being a TA for the freshman engineering course. Upon graduation, I am excited to start my career focusing on cryptographic applications.
 
   **Sydney O'Connor - Computer Engineering** 
   
