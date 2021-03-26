@@ -40,9 +40,7 @@ Our poster can also be found <a href="https://user-images.githubusercontent.com/
 <img src="https://user-images.githubusercontent.com/50886022/112033619-fb331300-8b13-11eb-916b-c0b594ec64ec.png" width="1200" height="600">
 
 ### Video 
-<video width="320" height="240" controls>
-  <source src="IPAQ Expo Video.mp4" type="video/mp4">
-</video>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/Wbf6B_CpF_A)
 
 ### Repository
 
