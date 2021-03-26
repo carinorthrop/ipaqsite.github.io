@@ -41,7 +41,7 @@ Our poster can also be found <a href="https://user-images.githubusercontent.com/
 
 ### Video 
 
-Put our video here 
+<iframe width="560" height="315" src="https://youtu.be/Wbf6B_CpF_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Repository
 
